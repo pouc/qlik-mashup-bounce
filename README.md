@@ -8,6 +8,6 @@ This is particularly usefull when you need to authenticate using an unknown auth
 
 deploy as a standard mashup
 
-redirect to bounce using <qlik sense host>/extensions/bounce/bounce.html?bounceUrl=<bounce URL>
+redirect to bounce using ```<qlik sense host>/extensions/bounce/bounce.html?bounceUrl=<bounce URL>```
 
 your user will be redirected to the bounce URL when authenticated!

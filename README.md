@@ -1,4 +1,4 @@
-# qlik-bounce
+# qlik-mashup-bounce
 
 A small mashup that enables you to bounce back from Qlik Sense to another URL
 
